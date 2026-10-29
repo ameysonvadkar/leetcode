@@ -5,7 +5,7 @@ class Solution {
 
             for (int i=0; i<n; i++) {
                 int xr = 0;
-
+                
                 for (int k=i; k<n; k++) {
                     xr = xr ^ arr[k];
 
