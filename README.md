@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ameysonvadkar/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ameysonvadkar/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/ameysonvadkar/leetcode/tree/master/0268-missing-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ameysonvadkar/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ameysonvadkar/leetcode/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ameysonvadkar/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
